@@ -1,3 +1,10 @@
 Ensayo 1
 Ensao 2 - 20 de Noviembre
 Nueva rama creada
+
+Personal date
+Name: Didinzon
+Surname: Valderrama Arboleda
+Profesion: Mathematic teacher
+Hobbie: Logical puzzle and sports
+Homework: Noviembre 22th 
