@@ -1,0 +1,21 @@
+Parte 1 - ¿Guardar o no guardar?
+
+Color favortito para el fondo: Si guardar.
+Número de tarjeta de crédito: No guardar.
+Lista de películas favoritas: Si guardar.
+Historal médico: No guardar.
+Volumen de reproducción favorito: Si guardar.
+
+Parte 2- Proón 3 casos de uso
+
+a. 	1. Aplicación o web para barbería a domicilio
+	2. Nombre, Fecha con recordaorio, tipo de corte o servicio, precio del servicio
+	3. Facilta el agendamiento ordenado de citas, facilita
+
+b. 	1. Una app de fechas importantes en el año para la relación
+	2. Nombres o apodos de pareja, Fecha y Hecho relevante
+	3. Reduce las discuciones innecesarias en una relación
+
+c. 	1. App para eventos de ciudad
+	2. Nombre del evento, fecha, lugar
+	3. Matiene informado a la ciudadanía sobre los eventos relevantes en la ciudad
